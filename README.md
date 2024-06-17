@@ -21,6 +21,8 @@ cd password_manager
 
 docker-compose up --build
 
+4. К сожалению, миграции необходимо запускать в ручную, не успел настроить DevOps
+
 
 После запуска, API будет доступен по адресу `http://localhost:8000/`.
 
